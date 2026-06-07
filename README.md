@@ -166,7 +166,7 @@ public class ThamaraiSelvi {
 
 | Degree | Institution | Year | Score |
 |:------:|:-----------:|:----:|:-----:|
-| B.E. Electronics & Communication Engineering | Sona College of Technology, Salem | 2027 | 8.43 CGPA |
+| B.E. Electronics & Communication Engineering | Sona College of Technology, Salem | 2027 | 8.52 CGPA |
 | HSC | Holy Cross Matriculation Hr. Sec. School, Denkanikottai | 2023 | 90.83% |
 | SSC | Holy Cross Matriculation Hr. Sec. School, Denkanikottai | 2021 | All Pass |
 
